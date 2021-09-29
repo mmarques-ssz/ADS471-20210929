@@ -1,0 +1,4 @@
+D:\Aulas\IFSP\2021\ADS-471-ED2-2021\exLista2\projLista2\projLista2\bin\Debug\projLista2.exe
+D:\Aulas\IFSP\2021\ADS-471-ED2-2021\exLista2\projLista2\projLista2\bin\Debug\projLista2.pdb
+D:\Aulas\IFSP\2021\ADS-471-ED2-2021\exLista2\projLista2\projLista2\obj\x86\Debug\projLista2.exe
+D:\Aulas\IFSP\2021\ADS-471-ED2-2021\exLista2\projLista2\projLista2\obj\x86\Debug\projLista2.pdb
